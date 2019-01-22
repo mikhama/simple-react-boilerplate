@@ -1,0 +1,7 @@
+node_modules
+coverage
+__snapshots__
+dist
+*.log
+.DS_Store
+.idea
